@@ -22,6 +22,7 @@ LICENSE: [Apache License, Version 2.0](license.md)
    1. [Создание папки проекта](creating-project-folder.md)
    2. [Создание репозитория](creating-repository.md)
    3. [Создание коммита](creating-commit.md)
+   4. [Переключение между версиями проекта](shifting-versions.md)
 
 ---
 
