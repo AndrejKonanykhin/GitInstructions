@@ -23,6 +23,9 @@ LICENSE: [Apache License, Version 2.0](license.md)
    2. [Создание репозитория](creating-repository.md)
    3. [Создание коммита](creating-commit.md)
    4. [Переключение между версиями проекта](shifting-versions.md)
+4. [Ветки в проекте](branches.md)
+   1. [Создание новой ветки](creating-branch.md)
+   2. [Слияние веток](merging-branches.md)
 
 ---
 
