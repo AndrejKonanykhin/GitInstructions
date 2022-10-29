@@ -31,6 +31,7 @@ LICENSE: [Apache License, Version 2.0](license.md)
    2. [Размещение проекта на GitHub](realise-on-github.md)
    3. [Работа на GitHub](work-on-github.md)
    4. [Загрузка изменений с GitHub](download-from-github.md)
+6. [Заключение](conclusion.md)
 
 ---
 
