@@ -26,6 +26,9 @@ LICENSE: [Apache License, Version 2.0](license.md)
 4. [Ветки в проекте](branches.md)
    1. [Создание новой ветки](creating-branch.md)
    2. [Слияние веток](merging-branches.md)
+5. [Хостинги GIT репозиториев](git-hostings.md)
+   1. [Начало работы на GitHub](sign-up-on-github.md)
+   2. [Размещение проекта на GitHub](realise-on-github.md)
 
 ---
 
