@@ -23,6 +23,12 @@ LICENSE: [Apache License, Version 2.0](license.md)
    2. [Создание репозитория](creating-repository.md)
    3. [Создание коммита](creating-commit.md)
    4. [Переключение между версиями проекта](shifting-versions.md)
+4. [Ветки в проекте](branches.md)
+   1. [Создание новой ветки](creating-branch.md)
+   2. [Слияние веток](merging-branches.md)
+5. [Хостинги GIT репозиториев](git-hostings.md)
+   1. [Начало работы на GitHub](sign-up-on-github.md)
+   2. [Размещение проекта на GitHub](realise-on-github.md)
 
 ---
 
